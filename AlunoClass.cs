@@ -13,7 +13,9 @@ using System;
                    _idade =  1;
                }
             }
-        }       
+        }
+        public int idTurma;
+        public int idAluno;      
 
 
         public void cadastro(string nome, int idade){
